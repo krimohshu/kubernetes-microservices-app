@@ -15,11 +15,10 @@ import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.ResponseBody;
-
 import com.virtualpairprogrammers.api.domain.LatLong;
 import com.virtualpairprogrammers.api.domain.VehiclePosition;
 import com.virtualpairprogrammers.api.services.PositionTrackingExternalService;
-
+//thank
 @Controller
 @RequestMapping("/")
 public class VehicleController 
